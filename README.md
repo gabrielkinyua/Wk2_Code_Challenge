@@ -1,5 +1,5 @@
 # Shopping List Web App
-
+Here is a live link to the webpage: https://gabrielkinyua.github.io/Wk2_Code_Challenge/
 ## Description
 A simple, interactive shopping list web app where users can:
 - Add items to the shopping list.
